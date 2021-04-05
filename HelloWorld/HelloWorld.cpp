@@ -6,6 +6,9 @@
 int main()
 {
     std::cout << "Git\n";
+
+    int age;
+    std::cin >> age;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
